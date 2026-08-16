@@ -1,4 +1,4 @@
-# Project 2 — Data Classification Using AI
+# Project 2 : Data Classification Using AI
 
 Iris classification internship project implementing the supplied assignment.
 
@@ -87,3 +87,6 @@ Expected headline result: 93.33% accuracy and 0.9327 macro F1 on the 30-sample t
 ## Scope
 
 The supplied slides mention computer vision/CNNs as future directions. They are not part of this Iris classification implementation, so no unnecessary deep-learning stack was added.
+
+## Author
+Hadeed Jalani
